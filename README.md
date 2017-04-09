@@ -4,7 +4,7 @@ In this day and age, phone usage constantly distracts us and fragments our atten
 
 Won 1st place at Shrewsbury Hackathon 2017.
 
-<img align="left" width="300" height="534" src="/IMG_2236.PNG"> 
+<img align="right" width="300" height="534" src="/IMG_2236.PNG"> 
 
 ### To use the app:
 1. Press the start button
@@ -21,5 +21,3 @@ Aalap Patel
 Asher Dale
 
 Jerry Du
-
-![Alt text](/IMG_2236.PNG)
