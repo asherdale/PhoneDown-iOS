@@ -1,6 +1,6 @@
 # PhoneDown-iOS
 
-Phone usage is taking over our lives, fragmenting our attention and constantly distracting us. By using this app, you can motivate yourself to live in the present, be productive, and stay focused.
+In this day and age, phone usage constantly distracts us and fragments our attention. By using this app, users can motivate themselves to live in the present, be productive, and stay focused.
 
 Won 1st place at Shrewsbury Hackathon 2017.
 
