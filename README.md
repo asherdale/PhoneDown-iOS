@@ -10,4 +10,5 @@ The purpose of this app is to help you stay off your phone. Phone usage is takin
 1. Press the start button
 2. Lock your phone
 3. Stay focused
+
 You will accumulate experience points until you stop the timer. If you start the timer and exit the app, the timer will be reset.
